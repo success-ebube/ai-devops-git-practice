@@ -8,7 +8,7 @@ A Practice Repository created while learning Git and version control as part of 
 - monitor.sh - script for checking server health
 - .gitignore - configured to exclude secrets and log files
 
-## Skils Demonstrated
+## Skills Demonstrated
 
 - Git repository initialisation
 - Staging and commiting changes
